@@ -17,7 +17,7 @@ Each card presents a question without a correct answer. Students navigate the sa
 
 - **答えは文脈から生まれる** — Meaning emerges from context
 - **同じ歌、同じ100問、全員違うゴール** — Same poems, same 100 questions, different goals for everyone
-- No single correct answer. Selection history forms a PUF-like unique pattern per student.
+- No single correct answer. Each student’s selection history forms a unique personal signature.
 
 ## Repository Contents
 
